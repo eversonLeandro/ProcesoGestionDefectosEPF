@@ -1,0 +1,31 @@
+<table>
+<tr><td><b>Element</b></td><td><b>Referenced By</b></td></tr>
+<tr><td>CapabilityPattern:registro_triage</td><td></td></tr>
+<tr><td>Task:reportar_defecto</td><td>CapabilityPattern:registro_triage/TaskDescriptor:reportar_defecto</td></tr>
+<tr><td>Role:reportante</td><td>CapabilityPattern:registro_triage/RoleDescriptor:reportante</td></tr>
+<tr><td>Artifact:reporte_de_defecto</td><td>CapabilityPattern:registro_triage/WorkProductDescriptor:reporte_de_defecto</td></tr>
+<tr><td>Task:priorizar_y_asignar_defecto</td><td>CapabilityPattern:registro_triage/TaskDescriptor:priorizar_y_asignar_defecto</td></tr>
+<tr><td>Role:lider_tecnico</td><td>CapabilityPattern:registro_triage/RoleDescriptor:lider_tecnico</td></tr>
+<tr><td>Milestone:Defecto asignado</td><td>CapabilityPattern:registro_triage/Milestone:Defecto asignado</td></tr>
+<tr><td>CapabilityPattern:resolucion</td><td></td></tr>
+<tr><td>Task:analizar_causa_raz</td><td>CapabilityPattern:resolucion/TaskDescriptor:analizar_causa_raz</td></tr>
+<tr><td>Role:desarrollador</td><td>CapabilityPattern:resolucion/RoleDescriptor:desarrollador</td></tr>
+<tr><td>Artifact:analisis_de_causa_raiz</td><td>CapabilityPattern:resolucion/WorkProductDescriptor:analisis_de_causa_raiz</td></tr>
+<tr><td>Task:corregir_defecto</td><td>CapabilityPattern:resolucion/TaskDescriptor:corregir_defecto</td></tr>
+<tr><td>Artifact:correccin</td><td>CapabilityPattern:resolucion/WorkProductDescriptor:correccin</td></tr>
+<tr><td>CapabilityPattern:Verificacion_cierre</td><td></td></tr>
+<tr><td>Task:verificar_correccin</td><td>CapabilityPattern:Verificacion_cierre/TaskDescriptor:verificar_correccin</td></tr>
+<tr><td>Role:tester</td><td>CapabilityPattern:Verificacion_cierre/RoleDescriptor:tester</td></tr>
+<tr><td>Artifact:evidencia_de_prueba</td><td>CapabilityPattern:Verificacion_cierre/WorkProductDescriptor:evidencia_de_prueba</td></tr>
+<tr><td>Milestone:Defecto verificado</td><td>CapabilityPattern:Verificacion_cierre/Milestone:Defecto verificado</td></tr>
+<tr><td>Task:cerrar_defecto</td><td>CapabilityPattern:Verificacion_cierre/TaskDescriptor:cerrar_defecto</td></tr>
+<tr><td>Artifact:defecto_cerrado</td><td>CapabilityPattern:Verificacion_cierre/WorkProductDescriptor:defecto_cerrado</td></tr>
+<tr><td>DeliveryProcess:gestion_defectos</td><td></td></tr>
+<tr><td>CapabilityPattern:registro_triage</td><td>DeliveryProcess:gestion_defectos/CapabilityPattern:registro_triage</td></tr>
+<tr><td>Milestone:Defecto asignado</td><td>DeliveryProcess:gestion_defectos/CapabilityPattern:registro_triage/Milestone:Defecto asignado</td></tr>
+<tr><td>CapabilityPattern:resolucion</td><td>DeliveryProcess:gestion_defectos/CapabilityPattern:resolucion</td></tr>
+<tr><td>CapabilityPattern:Verificacion_cierre</td><td>DeliveryProcess:gestion_defectos/CapabilityPattern:Verificacion_cierre</td></tr>
+<tr><td>Milestone:Defecto verificado</td><td>DeliveryProcess:gestion_defectos/CapabilityPattern:Verificacion_cierre/Milestone:Defecto verificado</td></tr>
+<tr><td>Template:plantilla_de_reporte_de_defecto</td><td>Artifact:reporte_de_defecto</td></tr>
+<tr><td>Checklist:checklist_de_verificacin_de_correccin</td><td>Task:verificar_correccin</td></tr>
+</table>

@@ -1,0 +1,74 @@
+Info: CapabilityPattern:registro_triage: 147 mini seconds publishing element
+Info: CapabilityPattern:registro_triage: 85 mini seconds publishing process specific layout data
+Info: Task:reportar_defecto: 13 mini seconds publishing element
+Info: TaskDescriptor:reportar_defecto: 16 mini seconds publishing element
+Info: Role:reportante: 21 mini seconds publishing element
+Info: RoleDescriptor:reportante: 7 mini seconds publishing element
+Info: Artifact:reporte_de_defecto: 13 mini seconds publishing element
+Info: WorkProductDescriptor:reporte_de_defecto: 10 mini seconds publishing element
+Info: Task:priorizar_y_asignar_defecto: 15 mini seconds publishing element
+Info: TaskDescriptor:priorizar_y_asignar_defecto: 9 mini seconds publishing element
+Info: Role:lider_tecnico: 21 mini seconds publishing element
+Info: RoleDescriptor:lider_tecnico: 6 mini seconds publishing element
+Info: Milestone:Defecto asignado: 7 mini seconds publishing element
+Info: CapabilityPattern:resolucion: 87 mini seconds publishing element
+Info: CapabilityPattern:resolucion: 46 mini seconds publishing process specific layout data
+Info: Task:analizar_causa_raz: 14 mini seconds publishing element
+Info: TaskDescriptor:analizar_causa_raz: 8 mini seconds publishing element
+Info: Role:desarrollador: 20 mini seconds publishing element
+Info: RoleDescriptor:desarrollador: 7 mini seconds publishing element
+Info: WorkProductDescriptor:reporte_de_defecto: 6 mini seconds publishing element
+Info: Artifact:analisis_de_causa_raiz: 9 mini seconds publishing element
+Info: WorkProductDescriptor:analisis_de_causa_raiz: 7 mini seconds publishing element
+Info: Task:corregir_defecto: 9 mini seconds publishing element
+Info: TaskDescriptor:corregir_defecto: 8 mini seconds publishing element
+Info: Artifact:correccin: 11 mini seconds publishing element
+Info: WorkProductDescriptor:correccin: 5 mini seconds publishing element
+Info: CapabilityPattern:Verificacion_cierre: 130 mini seconds publishing element
+Info: CapabilityPattern:Verificacion_cierre: 87 mini seconds publishing process specific layout data
+Info: Task:verificar_correccin: 11 mini seconds publishing element
+Info: TaskDescriptor:verificar_correccin: 8 mini seconds publishing element
+Info: Role:tester: 17 mini seconds publishing element
+Info: RoleDescriptor:tester: 5 mini seconds publishing element
+Info: RoleDescriptor:reportante: 8 mini seconds publishing element
+Info: WorkProductDescriptor:correccin: 5 mini seconds publishing element
+Info: WorkProductDescriptor:reporte_de_defecto: 5 mini seconds publishing element
+Info: Artifact:evidencia_de_prueba: 6 mini seconds publishing element
+Info: WorkProductDescriptor:evidencia_de_prueba: 6 mini seconds publishing element
+Info: Milestone:Defecto verificado: 4 mini seconds publishing element
+Info: Task:cerrar_defecto: 8 mini seconds publishing element
+Info: TaskDescriptor:cerrar_defecto: 8 mini seconds publishing element
+Info: RoleDescriptor:lider_tecnico: 5 mini seconds publishing element
+Info: Artifact:defecto_cerrado: 6 mini seconds publishing element
+Info: WorkProductDescriptor:defecto_cerrado: 5 mini seconds publishing element
+Info: DeliveryProcess:gestion_defectos: 67 mini seconds publishing element
+Info: DeliveryProcess:gestion_defectos: 212 mini seconds publishing process specific layout data
+Info: CapabilityPattern:registro_triage: 102 mini seconds publishing element
+Info: TaskDescriptor:reportar_defecto: 10 mini seconds publishing element
+Info: RoleDescriptor:reportante: 6 mini seconds publishing element
+Info: WorkProductDescriptor:reporte_de_defecto: 7 mini seconds publishing element
+Info: TaskDescriptor:priorizar_y_asignar_defecto: 8 mini seconds publishing element
+Info: RoleDescriptor:lider_tecnico: 5 mini seconds publishing element
+Info: Milestone:Defecto asignado: 8 mini seconds publishing element
+Info: CapabilityPattern:resolucion: 67 mini seconds publishing element
+Info: TaskDescriptor:analizar_causa_raz: 9 mini seconds publishing element
+Info: RoleDescriptor:desarrollador: 7 mini seconds publishing element
+Info: WorkProductDescriptor:reporte_de_defecto: 6 mini seconds publishing element
+Info: WorkProductDescriptor:analisis_de_causa_raiz: 6 mini seconds publishing element
+Info: TaskDescriptor:corregir_defecto: 12 mini seconds publishing element
+Info: WorkProductDescriptor:correccin: 6 mini seconds publishing element
+Info: CapabilityPattern:Verificacion_cierre: 115 mini seconds publishing element
+Info: TaskDescriptor:verificar_correccin: 16 mini seconds publishing element
+Info: RoleDescriptor:tester: 7 mini seconds publishing element
+Info: RoleDescriptor:reportante: 5 mini seconds publishing element
+Info: WorkProductDescriptor:correccin: 4 mini seconds publishing element
+Info: WorkProductDescriptor:reporte_de_defecto: 6 mini seconds publishing element
+Info: WorkProductDescriptor:evidencia_de_prueba: 5 mini seconds publishing element
+Info: Milestone:Defecto verificado: 4 mini seconds publishing element
+Info: TaskDescriptor:cerrar_defecto: 7 mini seconds publishing element
+Info: RoleDescriptor:lider_tecnico: 5 mini seconds publishing element
+Info: WorkProductDescriptor:defecto_cerrado: 5 mini seconds publishing element
+Info: Template:plantilla_de_reporte_de_defecto: 7 mini seconds publishing element
+Info: Checklist:checklist_de_verificacin_de_correccin: 6 mini seconds publishing element
+Info: CustomCategory:gestion_de_defectos: 6 mini seconds publishing element
+Info: : Publishing time: 0 minutes 2 seconds
